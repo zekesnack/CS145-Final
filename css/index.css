@@ -1,0 +1,53 @@
+#menuBar
+{
+	padding-top: 67px;
+	padding-left: 20px;
+	float: left;
+	width: 80%;
+}
+#image-carousel
+{
+	float: middle;
+	padding-left: 210px;
+}
+img
+{
+	width = 19%;
+	float: left;
+}
+ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li
+{
+	display: inline-block;
+	border-right: 2px;
+	border-top: 2px;
+	border-bottom: 2px;
+	float: left;
+	padding-left: 120px;
+	padding-right: 120px;
+	background-color: #E06C58;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-style: solid;
+}
+h2
+{
+	float:left;
+	font-size: 40px;
+	font-family: "Arial", "Serif";
+	width: 99%;
+}
+.paragraph_text
+{
+	height: 300px;
+}
+h1
+{
+	font-size: 12px;
+	height: 100px;
+}
